@@ -1,5 +1,5 @@
 # boy-mono
- to a simple c++ 3D game 
+ a simple c++ 3D game 
 Mouvement utilisant le clavier :
         Case 'x’ :
 Retourner le bonhomme a son colleur neutre
